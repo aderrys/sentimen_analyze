@@ -1,0 +1,10 @@
+
+pip install tweepy
+pip install Flask-Extension
+pip install flask-mysql
+pip install nltk
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install sastrawi
+pip install heapq

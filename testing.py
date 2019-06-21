@@ -1,0 +1,2 @@
+a = {san}
+print(a)

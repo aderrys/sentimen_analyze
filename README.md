@@ -1,4 +1,3 @@
-# sentimen_analyze
 # Sentimen Analyze in Lexicon Based Method and Naive Bayes Classifier
 
 This project tried to use Twitter by analyzing Indonesian-language tweets that talked about presidential candidates. 
